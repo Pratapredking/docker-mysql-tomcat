@@ -1,8 +1,3 @@
-# Docker Java/MySQL Tomcat Sample
-This is a simple Java application with MySQL.
-
-# Run
-
 ## Fig
 * `fig up -d`
 
