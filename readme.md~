@@ -19,4 +19,6 @@ Then run `fig ps` to find the app port.
 * sudo docker run -p 49160:8080 -d --link mysql:mysql javatest
 
 
+
+
 You should be able to access the app on http://\<docker-host-ip\>:49160/dbtest
