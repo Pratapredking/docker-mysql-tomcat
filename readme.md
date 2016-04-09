@@ -9,3 +9,7 @@
 
 
 You should be able to access the app on http://\<docker-host-ip\>:49160/dbtest
+
+Inspect Database:
+
+* sudo docker inspect <container-id> for IPAddresss of the container
