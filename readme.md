@@ -25,4 +25,8 @@ Inspect Database:
 
 * Run select * from testdata;
 
+Note : Ensure you have MySQL client installed. If not, use below command
+`sudo apt-get install mysql-client-core-5.5`
+
+
 
