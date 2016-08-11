@@ -34,5 +34,5 @@ Note : Ensure you have MySQL client installed. If not, use below command
 
 * Run sudo docker-compose up
 * Run sudo dokcer ps to find the port on which web module host is running
-* Run http://\<docker-host-ip\>:\<port>\/dbtest
+* Run http://\<docker-host-ip\>:\<port\>/dbtest
 
